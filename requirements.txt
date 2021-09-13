@@ -1,0 +1,15 @@
+# matplotlib==3.4.2
+gensim==3.8.3
+tokenizers==0.10.1
+torch==1.8.0
+#numpy==1.18.5
+jieba==0.42.1
+# tensorflow_gpu==2.2.2
+tqdm==4.49.0
+transformers==4.4.2
+pandas==1.2.3
+drouge==1.0.0
+emoji==1.2.0
+pytorch_transformers==1.2.0
+# tensorboardX==2.2
+# tensorflow==2.5.0

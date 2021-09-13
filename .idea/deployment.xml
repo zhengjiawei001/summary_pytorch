@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@10.20.36.161:8028" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="root@10.20.36.160:8028 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/zjw/summary_pytorch" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.20.36.160:8028 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/zjw/summary_pytorch" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.20.36.160:8028 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/zjw/summary_pytorch" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.20.36.161:8028">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/zjw/summary_pytorch" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.20.36.161:8028 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/zjw/summary_pytorch" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
